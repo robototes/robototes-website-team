@@ -8,6 +8,12 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![GO ROBOTOTES!](https://img.shields.io/badge/GO-ROBOTOTES!-brightred.svg)](https://www.robototes.com)
 
+### About
+
+This repository is a Docker microservice devoted to the team-only section of the
+[Robototes' Website](https://www.robototes.com). The team-only section contains helpful resources, internal
+announcements, and much more that can only be accessed by members of the Robototes via login.
+
 ### Software requirements
 
 * `node.js` version 8 or greater is recommended
