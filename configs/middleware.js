@@ -38,7 +38,8 @@ module.exports = {
           'www.google-analytics.com',
           'stats.g.doubleclick.net',
           'cdnjs.cloudflare.com',
-          'ssl.gstatic.com'
+          'ssl.gstatic.com',
+          'cdn.auth0.com'
         ],
         childSrc: [
           'docs.google.com',
