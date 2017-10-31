@@ -28,7 +28,8 @@
     "koa-router": "^7.2.1",
     "koa-session": "^5.5.0",
     "nconf": "^0.8.5",
-    "passport-auth0": "^0.6.0"
+    "passport-auth0": "^0.6.0",
+    "request": "^2.83.0"
   },
   "devDependencies": {
     "ava": "^0.23.0",
