@@ -4,10 +4,6 @@ module.exports = function (test) {
     test.request.get('/')
       .expect('Content-Security-Policy', /.*/, t.end)
   })
-  test.cb('HPKP is set', t => {
-    test.request.get('/')
-      .expect('Public-Key-Pins', /.*/, t.end)
-  })
   test.cb('Expect-CT is set', t => {
     test.request.get('/')
       .expect('Expect-CT', /.*/, t.end)
