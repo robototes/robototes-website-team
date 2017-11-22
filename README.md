@@ -25,7 +25,6 @@ The following environment variables can be set, the server will not start withou
 * `IP` (*required, default `0.0.0.0`*) The IP to run the server on
 * `PORT` (*required, default `3000`*) The port to listen for requests on
 * `DOMAIN` (*required*) The second-level domain that the server resides on
-* `HPKP_HASHES` (*required*) see [HPKP Hashes](#hpkphashes)
 * `AUTH0_CLIENT_ID` (*required*) see [Auth0](#auth0)
 * `AUTH0_DOMAIN` (*required*) see [Auth0](#auth0)
 * `AUTH0_CLIENT_SECRET` (*required*) see [Auth0](#auth0)

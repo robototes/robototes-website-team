@@ -17,7 +17,6 @@ nconf.env()
     'PORT',
     'IP',
     'DOMAIN',
-    'HPKP_HASHES',
     'AUTH0_CLIENT_ID',
     'AUTH0_DOMAIN',
     'AUTH0_CLIENT_SECRET',
