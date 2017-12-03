@@ -1,8 +1,8 @@
 extends layout.pug
 
 block scripts
-  script(type='text/javascript' src='https://cdn.auth0.com/js/lock/10.21.1/lock.min.js')
-  script(type='text/javascript' src=`//cdn.${nconf.get('DOMAIN')}/js/login.js`)
+  script(src='https://cdn.auth0.com/js/lock/10.21.1/lock.min.js')
+  script(src=`//cdn.${nconf.get('DOMAIN')}/js/login.js`)
 
 block main
   h1 Log in to view team member resources
