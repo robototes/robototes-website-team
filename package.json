@@ -25,18 +25,18 @@
     "koa-minify": "^2.0.1",
     "koa-passport": "^4.0.1",
     "koa-pug": "^3.0.0-2",
-    "koa-router": "^7.2.1",
-    "koa-session": "^5.5.0",
-    "nconf": "^0.9.1",
-    "passport-auth0": "^0.6.0",
+    "koa-router": "^7.3.0",
+    "koa-session": "^5.5.1",
+    "nconf": "^0.10.0",
+    "passport-auth0": "^0.6.1",
     "request": "^2.83.0"
   },
   "devDependencies": {
-    "ava": "^0.23.0",
+    "ava": "^0.24.0",
     "codecov": "^3.0.0",
     "html-validator": "^2.2.3",
-    "nodemon": "^1.12.1",
-    "nyc": "^11.2.1",
+    "nodemon": "^1.14.7",
+    "nyc": "^11.4.1",
     "standard": "^10.0.3",
     "supertest": "^3.0.0"
   }
